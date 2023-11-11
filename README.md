@@ -4,6 +4,9 @@
 
 # テクノロジー
 
+- LangChain
+- Astro
+
 # 参考資料
 
 - つくりながら学ぶ！AI アプリ開発入門 - LangChain & Streamlit による ChatGPT API 徹底活用
