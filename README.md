@@ -4,14 +4,18 @@
 
 # テクノロジー
 
-- LangChain
+- LangChain JS
 - Astro
 
 # 参考資料
 
-- つくりながら学ぶ！AI アプリ開発入門 - LangChain & Streamlit による ChatGPT API 徹底活用
-  - https://zenn.dev/ml_bear/books/d1f060a3f166a5
-- LangChain
-  - https://python.langchain.com/docs/get_started/introduction
+- TypeScript 環境構築
+  - https://www.engilaboo.com/build-environment-of-typescript/
+- LangChain JS
+  - https://js.langchain.com/docs/get_started/introduction
 - Astro
   - https://docs.astro.build/en/getting-started/
+
+# 学習メモ
+
+- LangChain
